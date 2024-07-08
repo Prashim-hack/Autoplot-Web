@@ -9,7 +9,7 @@ A simple web that makes different types of the plot using the provided CSV or XL
 At first clone the repository
 
 ```
-git clone https://github.com/Prashim-hack/autoplot-web.git
+git clone https://github.com/prashimpy/autoplot-web.git
 ```
 
 Now after you have cloned then you should have Python installed.
